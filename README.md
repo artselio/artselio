@@ -5,7 +5,8 @@ I aim to deepen my understanding and build projects for topics I find interestin
 
 ### Experience:
 
-- Software Engineer @ **Kainos** (Jun 2026 - present) 
+- Software Engineer @ **Kainos** (Jun 2026 - present)
+- Solo Dev **The Studio** (May 2025 - May 2026)
 - Software Engineer Intern @ **Atria** (Jan 2025 - Apr 2025) 
 - Undergraduate Researcher @ **SMART Labs (Dalhousie University)** (May 2024 - Dec 2024) 
 - Software Engineer Intern @ **Marsh** (May 2024 - Aug 2024) 
