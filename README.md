@@ -1,7 +1,7 @@
 
 ### About Me:
 
-I aim to deepen my understanding and build projects for topics I find interesting!
+I aim to deepen my understanding and build things that are interesting to me.
 
 ### Experience:
 
